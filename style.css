@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;                
+    box-sizing: border-box;
+}
+
+
+.foto{
+    width: 200px;
+    height: 200px;
+    background-image: url(Nuotrauka.jpg);
+/*    outline: 2px solid red;*/
+    border-radius: 100%;
+    display: inline-block;
+    margin: 60px;
+}
+
+footer{
+    margin: 150px;
+    text-align: center;
+}
+
